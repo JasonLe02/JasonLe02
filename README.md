@@ -2,7 +2,9 @@
 
 **---------------------------------------------------------------------------------------------------**
 
- - I'm currently working on a bachelor's degree in Cybersecurity at Western Michigan University.
+ - I'm currently working on a bachelor's degree in Cybersecurity at Western Michigan University. 🏫
+ - I enojy hanging out with friends and playing video games when I am not working or at school. 🎮
+ - I have been working as a private contractor for 7 years, doing a wide variety of renovation services. 🛠️
 
 <!--
 **JasonLe02/JasonLe02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
