@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm currently working on a bachelor's degree in Cybersecurity at Western Michigan University.
+
 <!--
 **JasonLe02/JasonLe02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
